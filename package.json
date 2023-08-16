@@ -1,0 +1,16 @@
+{
+  "name": "learn-extensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.29.0",
+    "chrome-types": "^0.1.218"
+  }
+}
